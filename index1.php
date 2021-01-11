@@ -1,6 +1,6 @@
   
 <?php
 
-include_once("realcool.html");
+include_once("season3.html");
 
 ?>
